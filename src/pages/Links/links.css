@@ -23,6 +23,7 @@
   align-items: center;
   flex-direction: row;
   margin-top: 8px;
+
 }
 
 .links-item:last-child {
@@ -44,6 +45,7 @@
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  color: #fff;
 }
 
 .link svg {
